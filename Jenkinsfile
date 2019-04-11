@@ -1,4 +1,4 @@
-lpipeline {
+pipeline {
 
 	stages {
 
